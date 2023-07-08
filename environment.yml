@@ -1,0 +1,11 @@
+name: geoana
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - geoana
+  - jupyterlab>=4.0.0
+  - jupyterlab-myst>=2.0.0
