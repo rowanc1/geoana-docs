@@ -1,18 +1,18 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  # title:
-  # description:
+  title: Geoana in JupyterLite
+  description: Adding interactive widgets for geoana, analytic geoscience functions.
   keywords: []
   authors: []
-  # github:
+  github: https://github.com/rowanc1/geoana-docs
   # bibliography: []
   thebe:
     # server: true
     lite: true
 site:
   template: book-theme
-  # title:
+  title: Geoana in JupyterLite
   # logo:
   nav: []
   actions:

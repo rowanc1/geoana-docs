@@ -1,3 +1,5 @@
+# Action created with `myst init --gh-pages`
+
 name: MyST GitHub Pages Deploy
 on:
   push:
